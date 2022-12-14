@@ -10,6 +10,8 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
+        setSupportActionBar(binding.toolbar1)
+        supportActionBar?.setDisplayHomeAsUpEnabled(true)
 
         binding.button1.setOnClickListener{
             val text = binding.editText1.text
