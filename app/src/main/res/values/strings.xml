@@ -1,6 +1,9 @@
 <resources>
-    <string name="app_name">AppSumin5</string>
+    <string name="app_name">Git_App</string>
     <string name="text_activity_main">it is my first project</string>
     <string name="button_name">Save</string>
     <string name="type_any_text_value">type any text</string>
+    <string name="edit_button_in_toolbar">Edit</string>
+    <string name="works_button_in_toolbar">Works</string>
+    <string name="info_button_in_toolbar">Info</string>
 </resources>

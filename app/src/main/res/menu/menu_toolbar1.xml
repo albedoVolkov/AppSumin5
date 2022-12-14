@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="@string/edit_button_in_toolbar"
+        android:icon="@drawable/ic_baseline_edit_24"
+        android:id="@id/button_edit_toolbar"
+        android:orderInCategory="300"
+        app:showAsAction="always"/>
+    <item android:title="@string/works_button_in_toolbar"
+        android:icon="@drawable/ic_baseline_window_24"
+        android:id="@id/button_works_toolbar"
+        android:orderInCategory="200"
+        app:showAsAction="always"/>
+    <item android:title="@string/info_button_in_toolbar"
+        android:icon="@drawable/ic_baseline_info_24"
+        android:id="@id/button_info_toolbar"
+        android:orderInCategory="100"
+        app:showAsAction="always"/>
+</menu>

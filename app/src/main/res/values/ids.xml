@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="button_edit_toolbar" type="id" />
+    <item name="button_works_toolbar" type="id" />
+    <item name="button_info_toolbar" type="id" />
+</resources>
